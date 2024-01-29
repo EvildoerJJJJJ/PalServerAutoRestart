@@ -2,8 +2,8 @@
 ## 使用方法
 1. 服务器安装NodeJs
    
-3. 下拉代码到服务器，在终端找到代码文件地址输入 ` npm i ` 等待依赖包下载
-4. 更改 **config.json** 的帕鲁服务器地址(**PalServerPath,每个path间使用两根斜线**)
+2. 下拉代码到服务器，在终端找到代码文件地址输入 ` npm i ` 等待依赖包下载
+3. 更改 **config.json** 的帕鲁服务器地址(**PalServerPath,每个path间使用两根斜线**)
 
      
    `{
@@ -11,4 +11,4 @@
       "PalServerCMDName": "palserver-win64-test-cmd.",
       "PalServerPath": "C:\\Users\\Administrator\\Downloads\\steamcmd\\steamapps\\common\\PalServer"
     }`  
- 6. 在控制台输入 ` node index.js ` 启动进程
+ 4. 在控制台输入 ` node index.js ` 启动进程
