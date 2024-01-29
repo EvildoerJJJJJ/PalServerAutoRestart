@@ -11,4 +11,4 @@
       "PalServerCMDName": "palserver-win64-test-cmd.",
       "PalServerPath": "C:\\Users\\Administrator\\Downloads\\steamcmd\\steamapps\\common\\PalServer"
     }`  
- 4. 在控制台输入 ` node index.js ` 启动进程
+ 4. 在终端输入 ` node index.js ` 启动进程
